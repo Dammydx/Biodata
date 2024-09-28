@@ -1,5 +1,5 @@
 _________________________________________________________________________________________________________________________________
-biometric-attendance-system by Irewole Daramola  Ep/csc/hnd/2022/003 Computer Science
+biometric-attendance-system by Dammy
 
 To view simply open index.html (index)Self explanatory after opening....(>_<)
 done using Html,Css & JavaScript 
@@ -31,5 +31,5 @@ style.css: Contains all the styles for the pages.
 script.js: Contains all the JavaScript logic for handling user sign-up, sign-in, attendance marking, and admin login.
 
 This website is a simple demonstration for a biometric attendance system demo.
-by Irewole Daramola.
+by Dammy
 _________________________________________________________________________________________________________________________________
